@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #6699db;
+}
+.bg{
+	width: 334px;
+	height: 500px;
+	background: #fff;
+	margin: 50px auto 0;
+	padding: 0 38px 0
+}
+.yuandian{
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	border:1px solid:#ccc;
+	border-radius: 50%;
+	background-image: url(close_common1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: right;
+	margin: -20px -57px 0 0;
+}
+.wenzi{
+	padding-top: 65px
+}
+.chuangke{
+	float: left;
+	font-weight: normal;
+
+}
+.zhuce{
+	float: right;
+	background:  url(to-bg.png) no-repeat;
+	background-position: right;
+	text-indent: -40px;
+	width: 18px;
+}
+.zhuce>a{
+	color: #4e75fd;
+	font-size: 14px;
+}
+.clear{
+	clear: both;
+}
